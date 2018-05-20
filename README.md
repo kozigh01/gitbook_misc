@@ -6,5 +6,5 @@ description: Additional app dev topics not covered by an individual book.
 
 ## Courses
 
- \* Learning Markdown: [Course](https://www.linkedin.com/learning/learning-markdown)​ \| [Notes](https://mkresources.gitbook.io/misc/course-notes-learning-markdown)​
+ * [x] Learning Markdown: [Course](https://www.linkedin.com/learning/learning-markdown)​ \| [Notes](https://mkresources.gitbook.io/misc/course-notes-learning-markdown)​
 
