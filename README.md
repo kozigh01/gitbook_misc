@@ -32,4 +32,7 @@ description: Additional app dev topics not covered by an individual book.
   * Javascript
 * React
 * Node
+  * express
+  * marblejs: rxjs based web server
+* MongoDB
 
