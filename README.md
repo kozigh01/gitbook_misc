@@ -23,6 +23,8 @@ description: Additional app dev topics not covered by an individual book.
   * ES6
   * GraphQL
   * Rambda / Lodash
+* HTML
+  * Multi-part form data - input file control
 * Testing
   * Jasmine
   * Cypress
