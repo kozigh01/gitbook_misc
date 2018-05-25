@@ -15,6 +15,7 @@ description: Additional app dev topics not covered by an individual book.
   * Component Communication
   * Routing
   * RxJS
+    * Unsubscribing: [1](https://alligator.io/angular/takeuntil-rxjs-unsubscribe/) \| [2](https://medium.com/@benlesh/rxjs-dont-unsubscribe-6753ed4fda87) \| [3](http://brianflove.com/2016/12/11/anguar-2-unsubscribe-observables/)
   * NgRX
   * Angular Material
     * Material Design for Bootstrap 4
