@@ -1,11 +1,13 @@
 # Helpful Git Commands
 
-### Github Flow
+### Connect local repo to Github
 
-1. Create the git repository on github, such as:  
-    https://github.com/kozigh01/introduction\_to\_es6.git
-2. In local directory, initialize local git repository:  
-    `git init`
+1. Create the git repository on github (using account 'myacct'), such as:  
+    https://github.com/kozigh01/my-repository.git
+2. In local directory:
+    1. Initialize local git repository: `git init`
+    2. Add remote (for github account 'myacct'): `git remote add origin https://myacct@github.com/kozigh01/my-repository.git`
+    3. Set tracking information: `git branch --set-upstream-to=origin/master master`
 3. 
 ### Clone a repository
 
