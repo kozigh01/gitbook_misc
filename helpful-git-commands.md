@@ -17,6 +17,15 @@
 ```text
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
+roughly equivalent to:
+```
+mkdir repo
+cd repo
+git init
+git remote add origin <url>
+git fetch origin
+git checkout master
+```
 
 ### Create a new repository on command line:
 
