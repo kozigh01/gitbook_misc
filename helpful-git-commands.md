@@ -4,7 +4,7 @@
 
 1. Create the git repository on github, such as:  
     https://github.com/kozigh01/introduction\_to\_es6.git
-2. In local directory, initialize local git repository:
+2. In local directory, initialize local git repository:  
     `git init`
 3. 
 ### Clone a repository
