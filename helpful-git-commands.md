@@ -7,7 +7,10 @@
 2. In local directory:
     1. Initialize local git repository: `git init`
     2. Add remote (for github account 'myacct'): `git remote add origin https://myacct@github.com/kozigh01/my-repository.git`
-    3. Set tracking information: `git branch --set-upstream-to=origin/master master`
+    3. If needed, commit first local changes: 'git add .', 'git commit -m "Initial commit"
+    4. Set tracking information: `git branch --set-upstream-to=origin/master master`
+    5. Pull changes from remote: `git pull'
+    6. Push changes to remote: `git push`
 3. 
 ### Clone a repository
 
