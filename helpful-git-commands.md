@@ -11,7 +11,7 @@
     4. Set tracking information: `git branch --set-upstream-to=origin/master master`
     5. Pull changes from remote: `git pull'
     6. Push changes to remote: `git push`
-3. 
+    
 ### Clone a repository
 
 ```text
