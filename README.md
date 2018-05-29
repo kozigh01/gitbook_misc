@@ -26,6 +26,8 @@ description: Additional app dev topics not covered by an individual book.
   * Rambda / Lodash
 * HTML
   * Multi-part form data - input file control
+  * Google fonts
+  * FontAwesome
 * Testing
   * Jasmine
   * Cypress
