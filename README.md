@@ -35,6 +35,9 @@ description: Additional app dev topics not covered by an individual book.
   * Haskell
   * Elm
   * Javascript
+* Languages
+  * Reason
+    * egghead.io: \[Get Started with Reason\]\([https://egghead.io/courses/get-started-with-reason](https://egghead.io/courses/get-started-with-reason)\)
 * React
 * Node
   * express
