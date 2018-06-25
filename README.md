@@ -11,7 +11,7 @@ description: Additional app dev topics not covered by an individual book.
 
 ## Tools
 
-* Scoop.sh \(installer\): [site](https://scoop.sh/) \| [youtube](https://www.youtube.com/watch?v=a85QLUJ0Wbs&feature=youtu.be) \| [blog](https://spin.atomicobject.com/2018/06/18/windows-node-js/)
+* Scoop.sh \(installer\): [site](https://scoop.sh/) \| [youtube](https://www.youtube.com/watch?v=a85QLUJ0Wbs&feature=youtu.be) \| [blog](https://spin.atomicobject.com/2017/12/20/windows-command-line-installer/) \| [blog2](https://spin.atomicobject.com/2018/06/18/windows-node-js/)
 
 ## Topics of Interest
 
