@@ -12,4 +12,5 @@
 * [OAuth and OpenID Connect Resources](secure-practices/oauth-and-openid-connect-resources.md)
 * [Okta Angular Example](secure-practices/okta-angular-example.md)
 * [Okta Client Credential Flow Example](secure-practices/okta-client-credential-flow-example.md)
+* [Course Notes for Web Security: OAuth and OpenID](secure-practices/course-notes-for-web-security-oauth-and-openid.md)
 
