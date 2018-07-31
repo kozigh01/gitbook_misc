@@ -14,3 +14,11 @@
 * [Okta Client Credential Flow Example](secure-practices/okta-client-credential-flow-example.md)
 * [Course Notes for Web Security: OAuth and OpenID](secure-practices/course-notes-for-web-security-oauth-and-openid.md)
 
+## ASP.NET Core
+
+* [Links](asp.net-core/links.md)
+
+## Linux
+
+* [Links](linux/links.md)
+
