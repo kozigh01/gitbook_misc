@@ -152,7 +152,7 @@ GitHub Flavored Markdown
 ## Table \(GFM\)
 
 | First Header | Second Header | left align | centered | right align |
-| --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- |
 | content one | content two | a | 1 | zyx |
 | more | stuff | bcde | **234** | long thing |
 | this is really long | not so much | fg | 5678 | a |
