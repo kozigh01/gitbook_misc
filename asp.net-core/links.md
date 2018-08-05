@@ -11,6 +11,7 @@
 ## Courses
 
 * [ ] Building Web APIs with ASP.NET Core: [course](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-2)
+* [ ] ASP.NET Core: Middleware: [course](https://www.linkedin.com/learning/asp-dot-net-core-middleware)
 
 ## Blogs
 
