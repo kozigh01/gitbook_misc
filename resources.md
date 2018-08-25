@@ -17,6 +17,8 @@
 * [ ]  Build GraphQL APIs with Node.js on MongoDB: [course](https://egghead.io/courses/build-graphql-apis-with-node-js-on-mongodb?utm_source=drip&utm_medium=email&utm_term=graphql&utm_content=graphql-node-mongodb)
 * [ ] Angular 6 - MEAN Stack Crash Course - Part 1: [video](https://www.youtube.com/watch?v=x2_bcCZg8vQ&feature=youtu.be)
 * [x] Web Security: OAuth and OpenID Connect: [Course](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect/welcome) \| [Notes](https://mkresources.gitbook.io/secure-practices/course-notes-for-web-security-oauth-and-openid)
+* [x] Learning Markdown: [Course](https://www.linkedin.com/learning/learning-markdown) \| [Notes](https://mkresources.gitbook.io/misc/course-notes-learning-markdown)​
+* [x] End to End Testing with Cypress: [Course](https://egghead.io/courses/end-to-end-testing-with-cypress)​
 
 ### Want To Do
 
@@ -53,6 +55,10 @@
 * [Pluralsight](https://www.pluralsight.com/)
 * [Scrimba](https://www.linkedin.com/learning)
 * [Udemy](https://www.udemy.com/) 
+
+## Tools
+
+* Scoop.sh \(installer\): [site](https://scoop.sh/) \| [youtube](https://www.youtube.com/watch?v=a85QLUJ0Wbs&feature=youtu.be) \| [blog](https://spin.atomicobject.com/2017/12/20/windows-command-line-installer/) \| [blog2](https://spin.atomicobject.com/2018/06/18/windows-node-js/)
 
 ## Video / Screencasts
 
