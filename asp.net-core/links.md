@@ -23,6 +23,7 @@
 
 * Stackify Prefix: [site](https://stackify.com/prefix/)
 * Fluent Validation: [git](https://github.com/JeremySkinner/FluentValidation), [site](https://fluentvalidation.net/) 
+* Json Patch: [site](http://jsonpatch.com/) \(w/ libraries\), [blog](https://dotnetcoretutorials.com/2017/11/29/json-patch-asp-net-core/)
 
 
 
