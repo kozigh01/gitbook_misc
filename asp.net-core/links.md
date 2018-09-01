@@ -22,6 +22,7 @@
 ## Tools
 
 * Stackify Prefix: [site](https://stackify.com/prefix/)
+* Fluent Validation: [git](https://github.com/JeremySkinner/FluentValidation), [site](https://fluentvalidation.net/) 
 
 
 
