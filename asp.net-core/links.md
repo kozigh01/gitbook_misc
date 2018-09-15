@@ -18,6 +18,7 @@
 ## Blogs
 
 * [ ] Asp.Net Core Action Results Explained: [blog](http://hamidmosalla.com/2017/03/29/asp-net-core-action-results-explained/)
+* [ ] Code Maze: .Net Core Series: [tutorial](https://code-maze.com/net-core-series/)
 
 ## Tools
 
