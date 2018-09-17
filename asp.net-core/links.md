@@ -15,10 +15,11 @@
 * [x] Building Your First API with ASP.NET Core: [course](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/table-of-contents)
 * [x] ASP.NET Core Fundamentals: [course](https://app.pluralsight.com/library/courses/aspdotnet-core-fundamentals/table-of-contents)
 
-## Blogs
+## Blogs / Tutorials
 
 * [ ] Asp.Net Core Action Results Explained: [blog](http://hamidmosalla.com/2017/03/29/asp-net-core-action-results-explained/)
 * [ ] Code Maze: .Net Core Series: [tutorial](https://code-maze.com/net-core-series/)
+* [ ] Build a .NET Core and SQL Database web app in Azure App Service on Linux: [tutorial](https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-dotnetcore-sqldb-app)
 
 ## Tools
 
