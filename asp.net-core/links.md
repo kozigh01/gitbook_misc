@@ -19,6 +19,7 @@
 
 * [ ] Asp.Net Core Action Results Explained: [blog](http://hamidmosalla.com/2017/03/29/asp-net-core-action-results-explained/)
 * [ ] Code Maze: .Net Core Series: [tutorial](https://code-maze.com/net-core-series/)
+  * [ ] Implementing Asynchronous Generic Repository in ASP.NET Core: [tutorial](https://code-maze.com/async-generic-repository-pattern/)
 * [ ] Build a .NET Core and SQL Database web app in Azure App Service on Linux: [tutorial](https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-dotnetcore-sqldb-app)
 
 ## Tools
