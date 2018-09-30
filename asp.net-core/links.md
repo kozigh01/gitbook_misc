@@ -14,6 +14,7 @@
 * [ ] ASP.NET Core: Middleware: [course](https://www.linkedin.com/learning/asp-dot-net-core-middleware)
 * [x] Building Your First API with ASP.NET Core: [course](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/table-of-contents)
 * [x] ASP.NET Core Fundamentals: [course](https://app.pluralsight.com/library/courses/aspdotnet-core-fundamentals/table-of-contents)
+* [x] Entity Framework Core 2: Getting Started: [course](https://app.pluralsight.com/library/courses/entity-framework-core-2-getting-started/table-of-contents)
 
 ## Blogs / Tutorials
 
