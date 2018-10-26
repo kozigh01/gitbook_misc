@@ -15,6 +15,7 @@
 * [x] Building Your First API with ASP.NET Core: [course](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/table-of-contents)
 * [x] ASP.NET Core Fundamentals: [course](https://app.pluralsight.com/library/courses/aspdotnet-core-fundamentals/table-of-contents)
 * [x] Entity Framework Core 2: Getting Started: [course](https://app.pluralsight.com/library/courses/entity-framework-core-2-getting-started/table-of-contents)
+* [x] Entity Framework Core 2: Mappings: [course](https://app.pluralsight.com/library/courses/e-f-core-2-beyond-the-basics-mappings/table-of-contents)
 
 ## Blogs / Tutorials
 
