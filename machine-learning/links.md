@@ -8,7 +8,7 @@
 
 ## Resources
 
-* Python:
+* [Python](https://www.python.org/):
   * Python editor: [PyCharm](https://www.jetbrains.com/pycharm/)
   * Python package Index: [PyPI](https://pypi.org/)
 * [Octave](https://www.gnu.org/software/octave/)
