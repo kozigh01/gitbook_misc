@@ -11,6 +11,7 @@
 * [Python](https://www.python.org/):
   * Python editor: [PyCharm](https://www.jetbrains.com/pycharm/)
   * Python package Index: [PyPI](https://pypi.org/)
+  * Google Python Style Guide: [guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
 * [Octave](https://www.gnu.org/software/octave/)
   * Tutorials: [DrapsTV](https://www.youtube.com/watch?v=X0xLTKRWPgo&list=PL1A2CSdiySGJ6oZe6XB-TTCFuHc5Fs1PO)
 
