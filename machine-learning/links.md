@@ -3,6 +3,7 @@
 ## Courses:
 
 * [ ] Coursera: Machine Learning: [course](https://www.coursera.org/learn/machine-learning/home/welcome)
+* [ ] Udemy: Python for Data Science and Machine Learning Bootcamp: [course](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp)
 * [x] Python: The Big Picture: [course](https://app.pluralsight.com/library/courses/python-big-picture)
 * [x] Python: Getting Started: [course](https://app.pluralsight.com/library/courses/python-getting-started/table-of-contents)
 
@@ -14,4 +15,5 @@
   * Google Python Style Guide: [guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
 * [Octave](https://www.gnu.org/software/octave/)
   * Tutorials: [DrapsTV](https://www.youtube.com/watch?v=X0xLTKRWPgo&list=PL1A2CSdiySGJ6oZe6XB-TTCFuHc5Fs1PO)
+* [Jupyter](http://jupyter.org/)
 
