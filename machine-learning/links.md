@@ -6,6 +6,7 @@
 * [ ] Udemy: Python for Data Science and Machine Learning Bootcamp: [course](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp)
 * [x] Python: The Big Picture: [course](https://app.pluralsight.com/library/courses/python-big-picture)
 * [x] Python: Getting Started: [course](https://app.pluralsight.com/library/courses/python-getting-started/table-of-contents)
+* [ ] Python: Fundamentals: [course](https://app.pluralsight.com/library/courses/python-fundamentals/table-of-contents)
 
 ## Resources
 
