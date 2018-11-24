@@ -7,9 +7,12 @@
 * [x] Python: The Big Picture: [course](https://app.pluralsight.com/library/courses/python-big-picture)
 * [x] Python: Getting Started: [course](https://app.pluralsight.com/library/courses/python-getting-started/table-of-contents)
 * [x] Python: Fundamentals: [course](https://app.pluralsight.com/library/courses/python-fundamentals/table-of-contents)
+* [x] Python: Beyond the Basics: [course](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
 
 ## Resources
 
+* Machine Learning:
+  * Free courses: [medium](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [Python](https://www.python.org/):
   * Python editor: [PyCharm](https://www.jetbrains.com/pycharm/)
   * Python package Index: [PyPI](https://pypi.org/)
