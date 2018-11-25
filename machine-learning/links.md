@@ -18,6 +18,7 @@
   * Python package Index: [PyPI](https://pypi.org/)
   * Python Packaging User Guild: [site](https://packaging.python.org/)
   * Google Python Style Guide: [guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
+  * Anaconda \(w/ Jupyter Notebooks\): [download](https://www.anaconda.com/download/)
 * [Octave](https://www.gnu.org/software/octave/)
   * Tutorials: [DrapsTV](https://www.youtube.com/watch?v=X0xLTKRWPgo&list=PL1A2CSdiySGJ6oZe6XB-TTCFuHc5Fs1PO)
 * [Jupyter](http://jupyter.org/)
