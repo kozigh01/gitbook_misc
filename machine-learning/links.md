@@ -8,6 +8,7 @@
 * [x] Python: Getting Started: [course](https://app.pluralsight.com/library/courses/python-getting-started/table-of-contents)
 * [x] Python: Fundamentals: [course](https://app.pluralsight.com/library/courses/python-fundamentals/table-of-contents)
 * [x] Python: Beyond the Basics: [course](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
+* [ ] DataCamp: Intro to Python for Data Science: [course](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
 
 ## Resources
 
