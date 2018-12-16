@@ -10,7 +10,8 @@
 * [x] Python: Beyond the Basics: [course](https://app.pluralsight.com/library/courses/python-beyond-basics/table-of-contents)
 * [x] DataCamp: Intro to Python for Data Science: [course](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
 * [x] DataCamp: Inermediate Python for Data Science: [course](https://campus.datacamp.com/courses/intermediate-python-for-data-science)
-* [ ] DataCamp: Python Data Science Toolbox Part 1: [course](https://campus.datacamp.com/courses/python-data-science-toolbox-part-1)
+* [x] DataCamp: Python Data Science Toolbox Part 1: [course](https://campus.datacamp.com/courses/python-data-science-toolbox-part-1)
+* [x] DataCamp: Python Data Science Toolbox Part 2: [course](https://campus.datacamp.com/courses/python-data-science-toolbox-part-2)
 
 ## Resources
 
