@@ -26,4 +26,5 @@
 * [Octave](https://www.gnu.org/software/octave/)
   * Tutorials: [DrapsTV](https://www.youtube.com/watch?v=X0xLTKRWPgo&list=PL1A2CSdiySGJ6oZe6XB-TTCFuHc5Fs1PO)
 * [Jupyter](http://jupyter.org/)
+* Kaggle: [site](https://www.kaggle.com/)
 
