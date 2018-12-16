@@ -23,8 +23,14 @@
   * Python Packaging User Guild: [site](https://packaging.python.org/)
   * Google Python Style Guide: [guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
   * Anaconda \(w/ Jupyter Notebooks\): [download](https://www.anaconda.com/download/)
+  * pyvev / venv:
+    * [How to manage multiple Python versions and virtual environments](https://medium.freecodecamp.org/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f)
+    * python docs:
+      * \`\`[`venv` — Creation of virtual environments](https://docs.python.org/3/library/venv.html#module-venv)
+      * [Virtual Environments and Packages](https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages)
 * [Octave](https://www.gnu.org/software/octave/)
   * Tutorials: [DrapsTV](https://www.youtube.com/watch?v=X0xLTKRWPgo&list=PL1A2CSdiySGJ6oZe6XB-TTCFuHc5Fs1PO)
-* [Jupyter](http://jupyter.org/)
+* [Jupyter](http://jupyter.org/):
+  * DataCamp - jupyter notebook tutorial: [tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
 * Kaggle: [site](https://www.kaggle.com/)
 
