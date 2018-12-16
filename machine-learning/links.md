@@ -31,6 +31,9 @@
 * [Octave](https://www.gnu.org/software/octave/)
   * Tutorials: [DrapsTV](https://www.youtube.com/watch?v=X0xLTKRWPgo&list=PL1A2CSdiySGJ6oZe6XB-TTCFuHc5Fs1PO)
 * [Jupyter](http://jupyter.org/):
+  * Install: 
+    * [Installing Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
+    * [Running the Notebook](https://jupyter.readthedocs.io/en/latest/running.html#running)
   * DataCamp - jupyter notebook tutorial: [tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
 * Kaggle: [site](https://www.kaggle.com/)
 
