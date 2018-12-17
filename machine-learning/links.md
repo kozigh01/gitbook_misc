@@ -19,6 +19,8 @@
   * Free courses: [medium](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * Anaconda: [site](https://www.anaconda.com/) \| [documentation](https://docs.anaconda.com/) \| [cloud](https://anaconda.org/)
   * Environments: [link](https://conda.io/docs/user-guide/tasks/manage-environments.html)
+  * Conda: [docs](https://conda.io/docs/index.html)
+  * Install help \(path\): [link](https://www.datacamp.com/community/tutorials/installing-anaconda-windows)
 * [Python](https://www.python.org/):
   * Python editor: [PyCharm](https://www.jetbrains.com/pycharm/)
   * Python package Index: [PyPI](https://pypi.org/)
