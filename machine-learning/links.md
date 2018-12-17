@@ -17,14 +17,13 @@
 
 * Machine Learning:
   * Free courses: [medium](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
-* Anaconda: [site](https://www.anaconda.com/) \| [documentation](https://docs.anaconda.com/)
+* Anaconda: [site](https://www.anaconda.com/) \| [documentation](https://docs.anaconda.com/) \| [cloud](https://anaconda.org/)
   * Environments: [link](https://conda.io/docs/user-guide/tasks/manage-environments.html)
 * [Python](https://www.python.org/):
   * Python editor: [PyCharm](https://www.jetbrains.com/pycharm/)
   * Python package Index: [PyPI](https://pypi.org/)
   * Python Packaging User Guild: [site](https://packaging.python.org/)
   * Google Python Style Guide: [guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
-  * Anaconda \(w/ Jupyter Notebooks\): [download](https://www.anaconda.com/download/)
   * pyvev / venv:
     * [How to manage multiple Python versions and virtual environments](https://medium.freecodecamp.org/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f)
     * python docs:
