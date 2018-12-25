@@ -40,6 +40,7 @@
   * DataCamp - jupyter notebook tutorial: [tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
   * [Azure Notebooks](https://notebooks.azure.com/):
     * Login: [url](https://notebooks.azure.com/mkozi-vsts01)
+    * Microsoft Notebooks: [url](https://notebooks.azure.com/Microsoft)
     * Connect\(\) 2018: [announcement](https://github.com/Microsoft/AzureNotebooks/wiki/Azure-Notebooks-at-Microsoft-Connect%28%29-2018)
 * Kaggle: [site](https://www.kaggle.com/)
 
