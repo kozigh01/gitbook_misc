@@ -45,5 +45,6 @@
     * Microsoft Notebooks: [url](https://notebooks.azure.com/Microsoft)
     * Connect\(\) 2018: [announcement](https://github.com/Microsoft/AzureNotebooks/wiki/Azure-Notebooks-at-Microsoft-Connect%28%29-2018)
   * Slideshow with reveal.js: [youtube](https://www.youtube.com/watch?v=EOpcxy0RA1A&feature=youtu.be)
+  * Slideshow with RISE: [github](https://github.com/damianavila/RISE)
 * Kaggle: [site](https://www.kaggle.com/)
 
