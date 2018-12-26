@@ -31,6 +31,8 @@
     * python docs:
       * \`\`[`venv` — Creation of virtual environments](https://docs.python.org/3/library/venv.html#module-venv)
       * [Virtual Environments and Packages](https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages)
+  * Matplotlib: [site](https://matplotlib.org/)
+  * O'Reilly - Python Data Science Handbook: [book](https://jakevdp.github.io/PythonDataScienceHandbook/) \| [jupyter notebooks](https://notebooks.azure.com/jakevdp/projects/PythonDataScienceHandbook)
 * [Octave](https://www.gnu.org/software/octave/)
   * Tutorials: [DrapsTV](https://www.youtube.com/watch?v=X0xLTKRWPgo&list=PL1A2CSdiySGJ6oZe6XB-TTCFuHc5Fs1PO)
 * [Jupyter](http://jupyter.org/) \([try](http://jupyter.org/try)\):
@@ -42,5 +44,6 @@
     * Login: [url](https://notebooks.azure.com/mkozi-vsts01)
     * Microsoft Notebooks: [url](https://notebooks.azure.com/Microsoft)
     * Connect\(\) 2018: [announcement](https://github.com/Microsoft/AzureNotebooks/wiki/Azure-Notebooks-at-Microsoft-Connect%28%29-2018)
+  * Slideshow with reveal.js: [youtube](https://www.youtube.com/watch?v=EOpcxy0RA1A&feature=youtu.be)
 * Kaggle: [site](https://www.kaggle.com/)
 
