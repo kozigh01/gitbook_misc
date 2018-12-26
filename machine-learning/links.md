@@ -33,6 +33,7 @@
       * [Virtual Environments and Packages](https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages)
   * Matplotlib: [site](https://matplotlib.org/)
   * O'Reilly - Python Data Science Handbook: [book](https://jakevdp.github.io/PythonDataScienceHandbook/) \| [jupyter notebooks](https://notebooks.azure.com/jakevdp/projects/PythonDataScienceHandbook)
+  * seaborn: [github ](https://github.com/mwaskom/seaborn)\| [site](https://seaborn.pydata.org/)
 * [Octave](https://www.gnu.org/software/octave/)
   * Tutorials: [DrapsTV](https://www.youtube.com/watch?v=X0xLTKRWPgo&list=PL1A2CSdiySGJ6oZe6XB-TTCFuHc5Fs1PO)
 * [Jupyter](http://jupyter.org/) \([try](http://jupyter.org/try)\):
