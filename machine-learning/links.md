@@ -31,7 +31,6 @@
     * python docs:
       * \`\`[`venv` — Creation of virtual environments](https://docs.python.org/3/library/venv.html#module-venv)
       * [Virtual Environments and Packages](https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages)
-  * Matplotlib: [site](https://matplotlib.org/)
   * O'Reilly - Python Data Science Handbook: [book](https://jakevdp.github.io/PythonDataScienceHandbook/) \| [jupyter notebooks](https://notebooks.azure.com/jakevdp/projects/PythonDataScienceHandbook)
   * Visualization:
     * Matplotlib: [site](https://matplotlib.org/)
