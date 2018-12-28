@@ -35,7 +35,7 @@
   * Visualization:
     * Matplotlib: [site](https://matplotlib.org/)
     * Seaborn: [github ](https://github.com/mwaskom/seaborn)\| [site](https://seaborn.pydata.org/)
-    * Plotly: [python](https://plot.ly/python/) \| [matplotlib](https://plot.ly/matplotlib/getting-started/) \| [cufflinks](https://plot.ly/ipython-notebooks/cufflinks/)
+    * Plotly: [python](https://plot.ly/python/) \| [matplotlib](https://plot.ly/matplotlib/getting-started/) \| [cufflinks](https://plot.ly/ipython-notebooks/cufflinks/) \| [figure reference](https://plot.ly/python/reference/)
       * cufflinks: [github](https://github.com/santosjorge/cufflinks) \(see tutorial jupyter notebooks at github\)
 * [Octave](https://www.gnu.org/software/octave/)
   * Tutorials: [DrapsTV](https://www.youtube.com/watch?v=X0xLTKRWPgo&list=PL1A2CSdiySGJ6oZe6XB-TTCFuHc5Fs1PO)
