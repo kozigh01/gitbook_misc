@@ -32,6 +32,9 @@
       * \`\`[`venv` — Creation of virtual environments](https://docs.python.org/3/library/venv.html#module-venv)
       * [Virtual Environments and Packages](https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages)
   * O'Reilly - Python Data Science Handbook: [book](https://jakevdp.github.io/PythonDataScienceHandbook/) \| [jupyter notebooks](https://notebooks.azure.com/jakevdp/projects/PythonDataScienceHandbook)
+  * Data Packages:
+    * Numpy: [site ](http://www.numpy.org/)\| [pypi ](https://pypi.org/project/numpy/)\| [github](https://github.com/numpy/numpy)
+    * Pandas: [github ](https://github.com/pandas-dev/pandas)\| [docs ](http://pandas.pydata.org/pandas-docs/stable/index.html)\| [basics](http://pandas.pydata.org/pandas-docs/stable/basics.html)
   * Visualization:
     * Matplotlib: [site](https://matplotlib.org/)
     * Seaborn: [github ](https://github.com/mwaskom/seaborn)\| [site](https://seaborn.pydata.org/)
