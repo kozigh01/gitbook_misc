@@ -12,6 +12,7 @@
 * [x] DataCamp: Inermediate Python for Data Science: [course](https://campus.datacamp.com/courses/intermediate-python-for-data-science)
 * [x] DataCamp: Python Data Science Toolbox Part 1: [course](https://campus.datacamp.com/courses/python-data-science-toolbox-part-1)
 * [x] DataCamp: Python Data Science Toolbox Part 2: [course](https://campus.datacamp.com/courses/python-data-science-toolbox-part-2)
+* [x] Pluralsight: Cleaning Data: Python Data Playbook: [course](https://app.pluralsight.com/library/courses/cleaning-data-python-data-playbook/table-of-contents)
 
 ## Resources
 
