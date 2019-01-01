@@ -37,6 +37,7 @@
   * Data Packages:
     * Numpy: [site ](http://www.numpy.org/)\| [pypi ](https://pypi.org/project/numpy/)\| [github](https://github.com/numpy/numpy)
     * Pandas: [github ](https://github.com/pandas-dev/pandas)\| [docs ](http://pandas.pydata.org/pandas-docs/stable/index.html)\| [basics](http://pandas.pydata.org/pandas-docs/stable/basics.html)
+      * pandas-datareader: [github](https://github.com/pydata/pandas-datareader) \| [docs](https://pydata.github.io/pandas-datareader/stable/)
   * Visualization:
     * Matplotlib: [site](https://matplotlib.org/)
     * Seaborn: [github ](https://github.com/mwaskom/seaborn)\| [site](https://seaborn.pydata.org/)
