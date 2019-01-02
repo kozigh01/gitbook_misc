@@ -4,6 +4,7 @@
 
 * [ ] Coursera: Machine Learning: [course](https://www.coursera.org/learn/machine-learning/home/welcome)
 * [ ] Udemy: Python for Data Science and Machine Learning Bootcamp: [course](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp)
+  * An Introduction to Statistical Learning: [site](http://www-bcf.usc.edu/~gareth/ISL/) \| [book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
 * [x] Python: The Big Picture: [course](https://app.pluralsight.com/library/courses/python-big-picture)
 * [x] Python: Getting Started: [course](https://app.pluralsight.com/library/courses/python-getting-started/table-of-contents)
 * [x] Python: Fundamentals: [course](https://app.pluralsight.com/library/courses/python-fundamentals/table-of-contents)
@@ -38,6 +39,7 @@
     * Numpy: [site ](http://www.numpy.org/)\| [pypi ](https://pypi.org/project/numpy/)\| [github](https://github.com/numpy/numpy)
     * Pandas: [github ](https://github.com/pandas-dev/pandas)\| [docs ](http://pandas.pydata.org/pandas-docs/stable/index.html)\| [basics](http://pandas.pydata.org/pandas-docs/stable/basics.html)
       * pandas-datareader: [github](https://github.com/pydata/pandas-datareader) \| [docs](https://pydata.github.io/pandas-datareader/stable/)
+      * csv specification: [RFC 4180](https://tools.ietf.org/html/rfc4180)
   * Visualization:
     * Matplotlib: [site](https://matplotlib.org/)
     * Seaborn: [github ](https://github.com/mwaskom/seaborn)\| [site](https://seaborn.pydata.org/)
