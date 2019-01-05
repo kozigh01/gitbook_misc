@@ -62,5 +62,5 @@
     * LaTex for Beginners: [pdf](http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf)
     * LaTex quick reference \(math starts on page 16\): [pdf](http://www.icl.utk.edu/~mgates3/docs/latex.pdf)
     * Wikibooks LaTex/Mathematics: [site](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
-* Kaggle: [site](https://www.kaggle.com/)
+* Kaggle \(data set repository\): [site](https://www.kaggle.com/)
 
