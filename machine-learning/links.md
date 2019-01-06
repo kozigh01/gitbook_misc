@@ -31,9 +31,7 @@
   * Google Python Style Guide: [guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
   * pyvev / venv:
     * [How to manage multiple Python versions and virtual environments](https://medium.freecodecamp.org/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f)
-    * python docs:
-      * \`\`[`venv` — Creation of virtual environments](https://docs.python.org/3/library/venv.html#module-venv)
-      * [Virtual Environments and Packages](https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages)
+    * venv — Creation of virtual environments: [python doc](https://docs.python.org/3/library/venv.html#module-venv) \| [python tutorial](https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages)
   * O'Reilly - Python Data Science Handbook: [book](https://jakevdp.github.io/PythonDataScienceHandbook/) \| [jupyter notebooks](https://notebooks.azure.com/jakevdp/projects/PythonDataScienceHandbook)
   * Data Packages:
     * Numpy: [site ](http://www.numpy.org/)\| [pypi ](https://pypi.org/project/numpy/)\| [github](https://github.com/numpy/numpy)
