@@ -3,7 +3,7 @@
 ## Courses:
 
 * [ ] Coursera: Machine Learning: [course](https://www.coursera.org/learn/machine-learning/home/welcome)
-* [ ] Udemy: Python for Data Science and Machine Learning Bootcamp: [course](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp)
+* [x] Udemy: Python for Data Science and Machine Learning Bootcamp: [course](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp)
   * An Introduction to Statistical Learning: [site](http://www-bcf.usc.edu/~gareth/ISL/) \| [book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
 * [x] Python: The Big Picture: [course](https://app.pluralsight.com/library/courses/python-big-picture)
 * [x] Python: Getting Started: [course](https://app.pluralsight.com/library/courses/python-getting-started/table-of-contents)
