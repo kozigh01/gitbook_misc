@@ -16,7 +16,7 @@
 
 ## .NET Core
 
-* [Links](asp.net-core/links.md)
+* [Links](.net-core/links.md)
 
 ## Linux
 
